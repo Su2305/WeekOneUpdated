@@ -1,0 +1,61 @@
+*{
+box-sizing:border-box ;
+padding: 0;
+margin: 0;
+}
+
+
+body{
+    background-color: #3a93e6;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    text-decoration-color: aqua;
+    text-shadow: 2px 2px #0c2f50;
+    background-color: darkorange;
+    font-style: inherit;
+    font-size: 1cm;
+    width: 100%;
+}
+
+h2{
+    background-color: rgb(220, 225, 255);
+    
+}
+
+h3{
+    background-color: darkorange;
+}
+
+div{
+    background-color: darkorange;
+    border:5px black solid;
+}
+
+*{
+    padding:0;
+    margin: 1.5mm;
+    box-sizing: border-box;
+}
+
+
+
+img{
+    width: 100%;
+}
+
+
+#first{
+    background-color: blue;
+}
+
+.class2{
+    background-color: darkorange
+    ;
+}
+
+#third{
+    color:darkorange
+}
